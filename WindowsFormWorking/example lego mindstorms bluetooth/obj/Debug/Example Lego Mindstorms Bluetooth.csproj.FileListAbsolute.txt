@@ -1,0 +1,59 @@
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe.config
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.pdb
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.dll
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.xml
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csprojResolveAssemblyReference.cache
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.LegoMindstormsForm.resources
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.Properties.Resources.resources
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.GenerateResource.Cache
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.pdb
+C:\Users\888602\Dropbox\FIS\Sharepoint\Block 2\_Final\Week 3\Practical resources\Example applications\Visual Studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe.config
+C:\Users\888602\Dropbox\FIS\Sharepoint\Block 2\_Final\Week 3\Practical resources\Example applications\Visual Studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\888602\Dropbox\FIS\Sharepoint\Block 2\_Final\Week 3\Practical resources\Example applications\Visual Studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.pdb
+C:\Users\888602\Dropbox\FIS\Sharepoint\Block 2\_Final\Week 3\Practical resources\Example applications\Visual Studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\888602\Dropbox\FIS\Sharepoint\Block 2\_Final\Week 3\Practical resources\Example applications\Visual Studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.pdb
+C:\Users\888602\Dropbox\FIS\Sharepoint\Block 2\_Final\Week 3\Practical resources\Example applications\Visual Studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.dll
+C:\Users\888602\Dropbox\FIS\Sharepoint\Block 2\_Final\Week 3\Practical resources\Example applications\Visual Studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.xml
+C:\Users\888602\Dropbox\FIS\Sharepoint\Block 2\_Final\Week 3\Practical resources\Example applications\Visual Studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csprojResolveAssemblyReference.cache
+C:\Users\888602\Dropbox\FIS\Sharepoint\Block 2\_Final\Week 3\Practical resources\Example applications\Visual Studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.LegoMindstormsForm.resources
+C:\Users\888602\Dropbox\FIS\Sharepoint\Block 2\_Final\Week 3\Practical resources\Example applications\Visual Studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.Properties.Resources.resources
+C:\Users\888602\Dropbox\FIS\Sharepoint\Block 2\_Final\Week 3\Practical resources\Example applications\Visual Studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.GenerateResource.Cache
+D:\Work files\Shared\FIS\FIS2\Practical\Week 3 - Practical resources\Example applications\visual studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe.config
+D:\Work files\Shared\FIS\FIS2\Practical\Week 3 - Practical resources\Example applications\visual studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.exe
+D:\Work files\Shared\FIS\FIS2\Practical\Week 3 - Practical resources\Example applications\visual studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.pdb
+D:\Work files\Shared\FIS\FIS2\Practical\Week 3 - Practical resources\Example applications\visual studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe
+D:\Work files\Shared\FIS\FIS2\Practical\Week 3 - Practical resources\Example applications\visual studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.pdb
+D:\Work files\Shared\FIS\FIS2\Practical\Week 3 - Practical resources\Example applications\visual studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.dll
+D:\Work files\Shared\FIS\FIS2\Practical\Week 3 - Practical resources\Example applications\visual studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.xml
+D:\Work files\Shared\FIS\FIS2\Practical\Week 3 - Practical resources\Example applications\visual studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csprojResolveAssemblyReference.cache
+D:\Work files\Shared\FIS\FIS2\Practical\Week 3 - Practical resources\Example applications\visual studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.LegoMindstormsForm.resources
+D:\Work files\Shared\FIS\FIS2\Practical\Week 3 - Practical resources\Example applications\visual studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.Properties.Resources.resources
+D:\Work files\Shared\FIS\FIS2\Practical\Week 3 - Practical resources\Example applications\visual studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.GenerateResource.Cache
+C:\Users\ivank\Desktop\Uni Shtuff\visual studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe.config
+C:\Users\ivank\Desktop\Uni Shtuff\visual studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\ivank\Desktop\Uni Shtuff\visual studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.pdb
+C:\Users\ivank\Desktop\Uni Shtuff\visual studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.dll
+C:\Users\ivank\Desktop\Uni Shtuff\visual studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.xml
+C:\Users\ivank\Desktop\Uni Shtuff\visual studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csprojAssemblyReference.cache
+C:\Users\ivank\Desktop\Uni Shtuff\visual studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.LegoMindstormsForm.resources
+C:\Users\ivank\Desktop\Uni Shtuff\visual studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.Properties.Resources.resources
+C:\Users\ivank\Desktop\Uni Shtuff\visual studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.GenerateResource.cache
+C:\Users\ivank\Desktop\Uni Shtuff\visual studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.CoreCompileInputs.cache
+C:\Users\ivank\Desktop\Uni Shtuff\visual studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.CopyComplete
+C:\Users\ivank\Desktop\Uni Shtuff\visual studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\ivank\Desktop\Uni Shtuff\visual studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.pdb
+E:\Repositories\fis2-project\WindowsFormWorking\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe.config
+E:\Repositories\fis2-project\WindowsFormWorking\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe
+E:\Repositories\fis2-project\WindowsFormWorking\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.pdb
+E:\Repositories\fis2-project\WindowsFormWorking\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.dll
+E:\Repositories\fis2-project\WindowsFormWorking\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.xml
+E:\Repositories\fis2-project\WindowsFormWorking\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csprojAssemblyReference.cache
+E:\Repositories\fis2-project\WindowsFormWorking\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.LegoMindstormsForm.resources
+E:\Repositories\fis2-project\WindowsFormWorking\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.Properties.Resources.resources
+E:\Repositories\fis2-project\WindowsFormWorking\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.GenerateResource.cache
+E:\Repositories\fis2-project\WindowsFormWorking\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.CoreCompileInputs.cache
+E:\Repositories\fis2-project\WindowsFormWorking\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.CopyComplete
+E:\Repositories\fis2-project\WindowsFormWorking\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.exe
+E:\Repositories\fis2-project\WindowsFormWorking\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.pdb
